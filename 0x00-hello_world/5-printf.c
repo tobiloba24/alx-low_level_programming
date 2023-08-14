@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 /**
- * main- the main function
+ * main- print out the text in quote
  *
  * Return: should be 0 when succesful
  */
 
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art, ");
+	printf("with proper grammar, but the outcome is a piece of art,");
 	return (0);
 }
