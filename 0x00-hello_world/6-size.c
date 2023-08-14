@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main- printing various types in the computer
+ * main- entry main point
  *
  * Return: 0 when succesful
  */
@@ -14,5 +14,4 @@ int main(void)
 	printf("size  long long int: %lu byte(s)\n", sizeof(long long int));
 	printf("size of float: %lu byte(s)", sizeof(float));
 	return (0);
-
 }
