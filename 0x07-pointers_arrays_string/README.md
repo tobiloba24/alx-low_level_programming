@@ -1,1 +1,1 @@
-this is a readme
+pointers, arrays and strings project
