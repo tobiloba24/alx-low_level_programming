@@ -3,7 +3,6 @@
 /**
  * print_listint - prints the elements of linked list
  * @h: linked list of type listint
- *
  * Return: number of nodes
  */
 
